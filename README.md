@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @karamelkatur
 - 👀 I’m interested in web3
 
-  ```
-  test
-  ```
 
 <!---
 karamelkatur/karamelkatur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
