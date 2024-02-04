@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karamelkatur
-- 👀 I’m interested in web3
-meew
+💡 Заглядываю в будущее через код. 🌟 Приверженец чистого дизайна и эффективных решений. 👨‍💻 Ищу вдохновение в каждой строке кода.
 
 <!---
 karamelkatur/karamelkatur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
